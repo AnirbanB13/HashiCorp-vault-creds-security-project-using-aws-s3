@@ -349,6 +349,13 @@ You'll see:
 
 ---
 
+Screenshots:
+<img width="1690" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7ab6e52-7006-49e7-a092-6a3664b3f527" />
+<img width="1880" height="711" alt="image" src="https://github.com/user-attachments/assets/4adbcf21-715c-4556-b7cd-62584a1978d9" />
+<img width="425" height="218" alt="image" src="https://github.com/user-attachments/assets/3e24f107-a930-4be3-9c1b-d72e1affd15d" />
+
+---
+
 ## 📚 References
 
 - [HashiCorp Vault Documentation](https://www.vaultproject.io/docs)
