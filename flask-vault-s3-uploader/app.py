@@ -79,7 +79,6 @@ class VaultClient:
 
 vault = VaultClient(VAULT_ADDR)
 
-
 def s3_client_from_creds(creds: dict, region: str):
     session = boto3.session.Session(
         aws_access_key_id=creds["access_key"],
